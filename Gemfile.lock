@@ -55,7 +55,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.12.1)
+    coffee-script-source (1.12.2)
     concurrent-ruby (1.0.2)
     debug_inspector (0.0.2)
     erubis (2.7.0)
@@ -166,7 +166,7 @@ GEM
       railties (>= 5.0)
     websocket-driver (0.6.4)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.2)
+    websocket-extensions (0.1.5)
 
 PLATFORMS
   ruby
